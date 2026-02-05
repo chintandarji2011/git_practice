@@ -1,3 +1,4 @@
 This is my first file in Master branch.
 This is my file in branch B1.
 V3
+--- Change in this file for conflict (Branch1)
